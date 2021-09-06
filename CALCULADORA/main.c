@@ -1,8 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+int menu();
+
 int main()
 {
-    printf("Hello world!\n");
+    do{
+
+    }
     return 0;
 }
