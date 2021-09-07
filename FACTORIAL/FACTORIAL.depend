@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630463821 source:c:\users\yosa__000\desktop\obedestructuras\factorial\main.c
+	<stdio.h>
+	<stdlib.h>
+

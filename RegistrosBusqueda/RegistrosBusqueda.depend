@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1628737352 source:c:\users\yosa__000\desktop\obedestructuras\registrosbusqueda\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

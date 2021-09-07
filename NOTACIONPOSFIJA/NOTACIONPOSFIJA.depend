@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630280246 source:c:\users\yosa__000\desktop\obedestructuras\notacionposfija\main.c
+	<stdio.h>
+	<stdlib.h>
+
