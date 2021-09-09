@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631130589 source:c:\users\yosa__000\desktop\obedestructuras\calculadora\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
